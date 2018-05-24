@@ -81,5 +81,5 @@ Uptime and error monitoring CLI
 [wendigo](https://github.com/angrykoala/wendigo) [Stars: 14]     
 A proper monster for front-end automated testing
 
-
+[frontend-master-downloader](https://github.com/sepiropht/frontend-master-downloader)[Stars: 11]  
 
