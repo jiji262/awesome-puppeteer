@@ -30,15 +30,19 @@ A collection of awesome tutorials, resources and shiny things of [puppeteer](htt
 [yujiosaka/headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) [Star: 4001]
 
 [danburzo/percollate](https://github.com/danburzo/percollate) [Star: 2851]
+
 A command-line tool to turn web pages into beautifully formatted PDFs
  
 [segmentio/daydream](https://github.com/segmentio/daydream) [Star: 2373]
+
 A chrome extension to record your actions into a nightmare or puppeteer script 
 
 [emadehsan/thal](https://github.com/emadehsan/thal) [Star: 2116]
+
 Getting started with Puppeteer and Chrome Headless for Web Scraping
 
 [taiko](https://github.com/getgauge/taiko) [Stars: 942]  
+
 An easy to use wrapper over Google Chrome's Puppeteer 
 
 [puppeteer-deep](https://github.com/zhentaoo/puppeteer-deep) [Star: 729]
